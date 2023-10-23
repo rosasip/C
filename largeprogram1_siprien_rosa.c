@@ -1,7 +1,3 @@
-//Rosa Siprien
-//Dr. Steinberg
-//COP3223 Section 001
-//Large Program 1
 
 #include <stdio.h>
 #include<stdlib.h>
